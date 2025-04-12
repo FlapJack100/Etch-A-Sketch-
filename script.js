@@ -6,7 +6,7 @@ const eraseBtn = document.getElementById('erase');
 const clearBtn = document.getElementById('clear');
 const sizeRange = document.getElementById('sizeRange');
 const sizeValue = document.getElementById('sizeValue');
-alert(' Сладость моя, ну и как тебе моя игра? Люблю тебя Хеда:)')
+alert(' Deni! You are the best mentor,know that :)')
 let currentMode = 'black';
 let currentSize = 16;
 
